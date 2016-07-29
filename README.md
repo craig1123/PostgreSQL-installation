@@ -33,10 +33,10 @@ Congratulations! You now have your first database.
 
 
 ##For Mac OS X:
-*Watch https://www.youtube.com/watch?v=1wvDVBjNDys to create a PostgreSQL database using pgAdmin
-*Watch https://www.youtube.com/watch?v=xaWlS9HtWYw to create a PostgreSQL database using the command line.
+* Watch https://www.youtube.com/watch?v=1wvDVBjNDys to create a PostgreSQL database using pgAdmin
+* Watch https://www.youtube.com/watch?v=xaWlS9HtWYw to create a PostgreSQL database using the command line.
 
-download PostgreSQL --> http://www.enterprisedb.com/products-services-training/pgdownload#macosx
+* download PostgreSQL --> http://www.enterprisedb.com/products-services-training/pgdownload#macosx
 
 
 
