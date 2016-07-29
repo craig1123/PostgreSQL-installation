@@ -2,7 +2,7 @@
 
 For Windows:
 1. Go to http://www.enterprisedb.com/products-services-training/pgdownload#windows
-    -Pick the download right under the Beta version.
+    - Pick the download right under the Beta version.
     -Your download should begin shortly
 
 2. When the download is finished, double click on the downloaded file
