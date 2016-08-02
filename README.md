@@ -16,7 +16,7 @@
 3. Find the PostgreSQL app and double click it. You can look through all files to find it. I would pin this program to your start menu.
     - When the application appears, double click the "PostgreSQL 9.5 (localhost:[port #])
     - It'll ask for your password (did you remember it?) Only check "Store password" if you are not making a production server.
-4. Now we need to make a roles. There are group roles and login roles. For now, we are only going to make Login Roles.
+4. Now we need to make roles. There are group roles and login roles. For now, we are only going to make Login Roles.
     - Right-click "Login Roles" and select "New Login Role".
     - In the properties tab, make a Role name. The name should be the name of the app
     - In the definition tab, create a simple passwork and type it in again.
